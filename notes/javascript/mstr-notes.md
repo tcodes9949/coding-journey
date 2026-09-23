@@ -1,10 +1,10 @@
-# Topic: [What you learned]
+# Topic: Learning JavaScript
 **Date:** YYYY-MM-DD
 **Phase:** Phase 1 — javascript
 **Time spent:** Xh
 **Status:** -learning | understood | mastered
 
-## What I learned
+## What I learned - Building a passenger counter App
 - 
 - 
 
