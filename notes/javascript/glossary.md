@@ -33,6 +33,9 @@ anything.
 
 ---
 
+## future Terms no yet defined
+---
+
 ## Quick Links
 - [All JavaScript notes](./)
 - [Master dashboard](../../README.md)
