@@ -20,10 +20,12 @@
 // code here
 
 ## Gotchas / mistakes
-- 
+- let count = 0 must run before you use count, or you'll get a ReferenceError.
 
 ## Resources used
 - 
 
 ## Next steps
-- 
+
+## Glossary entries
+- Function - A function is a reusable block of code that runs only when you call it.
