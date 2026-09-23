@@ -8,6 +8,7 @@ Format: **Term** — definition. [→ deep dive](./note.md) if one exists.
 
 ## A–F
 **`=` vs `===`** — `=` assigns a value; `===` compares two values and returns `true` or `false`.
+
 **boolean** — a data type with only two possible values: `true` or `false`.
 
 **const** — declares a variable whose value cannot be reassigned.
