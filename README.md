@@ -1,7 +1,7 @@
 # My Coding Journey
 
 ## Current Status
-- **Phase:** 0 — Setup
+- **Phase:** 1 JavaScript 
 - **Week:** 0
 - **Focus:** Setting up my tracker
 - **Hours this week:** 0/10
