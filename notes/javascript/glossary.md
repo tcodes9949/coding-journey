@@ -7,32 +7,30 @@ Format: **Term** — definition. [→ deep dive](./note.md) if one exists.
 ---
 
 ## A–F
+**`=` vs `===`** — `=` assigns a value; `===` compares two values and returns `true` or `false`.
 
-**Async** — a keyword marking a function that returns a Promise and can use `await` inside.
 
-**Await** — pauses execution inside an `async` function until a Promise resolves.
+**boolean** — a data type with only two possible values: `true` or `false`.
 
-**Closure** — a function that remembers variables from the scope it was created in, even after that scope has exited.
-
-**Const** — declares a block-scoped variable that cannot be reassigned.
-
----
+**const** — declares a variable whose value cannot be reassigned.
 
 ## G–L
-
-**Hoisting** — JavaScript's behavior of moving declarations to the top of their scope before code runs.
-
----
+**let** — declares a variable whose value can be reassigned.
 
 ## M–R
+**null** — a value you assign on purpose to mean "intentionally empty."
 
-**Promise** — an object representing a value that will exist later; has three states: pending, fulfilled, rejected.
-
----
+**number** — a data type for numeric values (integers and decimals).
 
 ## S–Z
+**string** — a data type for text, wrapped in quotes.
 
-**Scope** — the region of code where a variable is accessible.
+**undefined** — the value a variable holds when it's declared but not yet assigned 
+anything.
+
+**var** — the old way to declare variables, before `let` and `const` existed.
+
+**variable** — a named container that holds a value.
 
 ---
 
