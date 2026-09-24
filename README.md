@@ -2,9 +2,8 @@
 
 ## Current Status
 - **Phase:** 1 JavaScript 
-- **Week:** 0
-- **Focus:** Setting up my tracker
-- **Hours this week:** 0/10
+- **Week:** 1
+- **Focus:** Phase 1
 
 ## The Plan
 
