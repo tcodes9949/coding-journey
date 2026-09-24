@@ -6,7 +6,7 @@
 - **Focus:** Setting up my tracker
 - **Hours this week:** 0/10
 
-## Progress Tracker
+## The Plan
 
 | Phase | Status | Started | Completed | Project |
 |---|---|---|---|---|
@@ -18,6 +18,20 @@
 | 5. AI Integrations & Agents | ⬜ Not Started | — | — | — |
 | 6. Security Hardening | ⬜ Not Started | — | — | — |
 | 7. Containers (optional) | ⬜ Not Started | — | — | — |
+
+## Progress
+
+### Phase 1 — Coding Basics
+
+| Unit | Topic | Deliverable | Status |
+|------|-------|-------------|--------|
+| 1 | Variables & Data Types | [glossary](./notes/javascript/glossary.md) · [note](./notes/javascript/variables-and-data-types.md) | ✅ done |
+| 2 | Conditionals | [conditionals.js](./projects/js-practice/conditionals.js) | ⬜ |
+| 3 | Loops | [loops.js](./projects/js-practice/loops.js) | ⬜ |
+| 4 | Functions | [functions.js](./projects/js-practice/functions.js) | ⬜ |
+| 5 | Objects & Arrays of Objects | [objects.js](./projects/js-practice/objects.js) | ⬜ |
+| 6 | Console Calculator | [console-calculator/](./projects/console-calculator/) | ⬜ |
+| 7 | Weekly log + dashboard | [week-01.md](./progress/week-01.md) | ⬜ |
 
 ## Weekly Log
 | Week | Dates | Hours | Key Learnings | Link |
