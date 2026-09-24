@@ -5,7 +5,7 @@
 - **Week:** 1
 - **Focus:** Phase 1
 
-## The Plan
+## The Plan [units below](#progress)
 
 | Phase | Status | Started | Completed | Project |
 |---|---|---|---|---|
