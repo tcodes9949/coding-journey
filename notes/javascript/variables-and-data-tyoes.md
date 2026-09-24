@@ -31,7 +31,17 @@ These three are easy to mix up, so I listed them separately.
 
 ## Code snippets / demo
 
+### `string`
+
 ```js
 let name = "Alice"
-//  ↑        ↑
-// keyword   data type (string)
+console.log(typeof name)   // "string"
+```
+
+## `number`
+--
+## `boolean`
+--
+## `null`
+--
+## `undefined`
