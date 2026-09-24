@@ -38,10 +38,30 @@ let name = "Alice"
 console.log(typeof name)   // "string"
 ```
 
-## `number`
---
-## `boolean`
---
-## `null`
---
-## `undefined`
+### `number`
+
+```js
+let price = 3.14
+console.log(typeof price)   // "number"
+```
+
+### `boolean`
+
+```js
+let isReady = true
+console.log(typeof isReady)   // "boolean"
+```
+
+### `null`
+
+```js
+let empty = null
+console.log(typeof empty)   // "object" ← famous 1995 JS bug, should say "null"
+```
+
+### `undefined`
+
+```js
+let notSet
+console.log(typeof notSet)   // "undefined"
+```
