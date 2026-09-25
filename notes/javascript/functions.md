@@ -16,8 +16,9 @@
 - The function parts
   1.`function` - keyword - about to write the recipie
   2.`greet` - the name - the recipie mame
-  3.`(__)` - the a blank to fill in later
+  3.`(__)` - the parameter - the a blank to fill in later
   4.`{...}`- the body - steps that run
+- 
 
 ## Code snippet / demo
 
