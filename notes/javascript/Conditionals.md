@@ -21,7 +21,7 @@ What you'll learn:
 - I learnd that if/els statements are like forks in a road. If something is true the code execute; if not, there's another route or n othing happens. The thing that decides the fork is a condition that evaluates to `true` or `false`.
 - 
 
-## Code snippet / demo
+## Code snippet / demo [js-practice.js](projects/js-practice/conditionals.js)
 
 // code here
 
@@ -44,6 +44,9 @@ if(condition){
 - `false` - advance to the next check
 - `true` - run and stop
 - no `else` + no match - nothing runs
+- `if` — the first check in a chain. Runs its block if the condition is true.
+- `else if` — an additional check. Only runs if every check above it was false.
+- `else` — the catch-all. Runs if nothing above matched. No condition of its own.
 
 
 ## Resources used
