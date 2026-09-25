@@ -33,7 +33,7 @@
 | Unit | Topic | Deliverable | Status |
 |------|-------|-------------|--------|
 | 1 | Variables & Data Types | [glossary](./notes/javascript/glossary.md) · [note](./notes/javascript/variables-and-data-types.md) | ✅ done |
-| 2 | Conditionals | [conditionals.js](./projects/js-practice/conditionals.js) · [note](./notes/javascript/Conditionals.md)  | ✅ done|
+| 2 | Conditionals | [conditionals.js](./projects/js-practice/conditionals.js) · [note](./notes/javascript/conditionals.md)  | ✅ done|
 | 3 | Loops | [loops.js](./projects/js-practice/loops.js) | ⬜ |
 | 4 | Functions | [functions.js](./projects/js-practice/functions.js) | ⬜ |
 | 5 | Objects & Arrays of Objects | [objects.js](./projects/js-practice/objects.js) | ⬜ |
