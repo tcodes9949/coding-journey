@@ -4,9 +4,7 @@ let temp = 30
 if (temp > 25) {
 //statement - prints "It's hot"
   console.log("It's hot") 
-} 
-//`else if` "if previous check was false, try this one instead"; (temp>= 15) "is temp 15 or more?"
-else if (temp >= 15) {
+} else if (temp >= 15) {  // is temp 15 or more?
 //run this if thats `true`
   console.log("It's nice")
 //no condition. Run if everything above was false
