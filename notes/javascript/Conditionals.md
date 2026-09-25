@@ -20,20 +20,19 @@ What you'll learn:
 ## What I learned
 - I learnd that if/els statements are like forks in a road. If something is true the code execute; if not, there's another route or n othing happens. The thing that decides the fork is a condition that evaluates to `true` or `false`.
 - 
+## Code snippets / demo
 
-## Code snippet / demo [js-practice.js](projects/js-practice/conditionals.js)
+Full working examples: [conditionals.js](../../projects/js-practice/conditionals.js)
 
-// code here
+The core pattern:
 
-`if` 
 ```js
-let x = 1
-// establishes a variable to use with conditions
-
-if(condition){
-    console.log("something");
+if (condition) {
+  // runs if true
+} else if (otherCondition) {
+  // runs if the first was false and this is true
 } else {
-    console.log ("something else")
+  // runs if nothing above matched
 }
 ```
 
