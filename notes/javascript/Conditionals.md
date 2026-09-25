@@ -12,6 +12,8 @@ What you'll learn:
 * Comparison operators: `===`, `!==`, `<`, `>`, `<=`, `>=`
 
 * Logical operators: `&&`(and), `||` (or), `!` (not)
+
+* conditions work well with boolean variables
 ---
 
 
@@ -22,6 +24,18 @@ What you'll learn:
 ## Code snippet / demo
 
 // code here
+
+`if` 
+```js
+let x = 1
+// establishes a variable to use with conditions
+
+if(condition){
+    console.log("something");
+} else {
+    console.log ("something else")
+}
+```
 
 ## Gotchas / mistakes
 - ` els if` conditional lets you check more than one condition, in order, until one matches.
