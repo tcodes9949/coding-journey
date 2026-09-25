@@ -48,7 +48,7 @@ console.log(person.isReady)   // true
 
 ### Length: print how many items
 ```js
-colors.length    // 3
+console.log(colors.length)    // 3
 ```
 
 ### Array of objects 
