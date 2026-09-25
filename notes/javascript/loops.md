@@ -1,7 +1,7 @@
 # Topic: Loops
 **Date:** 2026-sep-25
-**Phase:** Phase 1 — Loops
-**Status:** 🟠learning | understood | mastered
+**Phase:** Phase 1 — JavaScript
+**Status:** 🟠learning 
 
 ## Overview
 
@@ -30,13 +30,11 @@ console.log(5)
 ```
 ### With a loop:
 ```js
-
-for (let i = 1; i <= 5; i++) {      //Has 3 separate instructions("start counting at 1"; "keep going as long as i is 5 or less";"After each round, add 1 to i") 
+for (let i = 1; i <= 5; i++) {     // start, condition, step — all in one line.
   console.log(i)
 }
-
 ```
-Same output but. 5 lines becaame three. Now imagine printing 1-1,000. No loop? You'd write 1,000 lines. With loop 3 line.
+Same output but 5 lines became three. Now imagine printing 1 to 1,000. No loop? You'd write 1,000 lines. With loop 3 lines.
 The whole point of loops is to do the boring repetition for you.
 
 ```js
@@ -48,9 +46,11 @@ for (let i = 1; i <= 10; i++) {
 ```
 
 ## Gotchas / mistakes
-- The loop will always attempt the 1st test on the variable written expressed on the condition
+- The loop checks the condition before the first run, and prints the starting value first — it doesn't skip ahead.
 - infinite loops - when in the `while` loop when `i++` is forgotten
-- 
+- Double check code for mispelling and commit frequently
+- make sure my variables match when writing my code
+  
 
 ## Resources used
 -  Replit - to run/test the code
