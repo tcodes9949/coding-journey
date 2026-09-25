@@ -18,7 +18,7 @@
   2.`greet` - the name - the recipie mame
   3.`(__)` - the parameter - the a blank to fill in later
   4.`{...}`- the body - steps that run
-- 
+- `return` gives the value back to the caller so it can be stored and reused. 
 
 ## Code snippet / demo
 
@@ -41,10 +41,8 @@ greet("Charlie")
 ```
 Same output. Now the greeting logic lives in one place. Change it once and the rest follow.
 
-// code here
-
 ## Gotchas / mistakes
-- 
+- `console.log` only shows it — the value is gone once printed.
 
 ## Resources used
 - 
