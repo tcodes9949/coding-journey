@@ -1,5 +1,13 @@
 # My Coding Journey
 
+## Mission
+**Goal:** Build web apps, blockchain/Web3 products, and AI integrations/agents.
+
+**Stack path:** TypeScript/JavaScript → Solidity → (Python later, if needed)
+
+**Golden rule:** Every phase ends with a project pushed to GitHub. Courses are the map; projects are the territory.
+
+
 ## Current Status
 - **Phase:** 1 JavaScript 
 - **Week:** 1
@@ -25,7 +33,7 @@
 | Unit | Topic | Deliverable | Status |
 |------|-------|-------------|--------|
 | 1 | Variables & Data Types | [glossary](./notes/javascript/glossary.md) · [note](./notes/javascript/variables-and-data-types.md) | ✅ done |
-| 2 | Conditionals | [conditionals.js](./projects/js-practice/conditionals.js) | ✅ done|
+| 2 | Conditionals | [conditionals.js](./projects/js-practice/conditionals.js) · [note](./notes/javascript/conditionals.md)  | ✅ done|
 | 3 | Loops | [loops.js](./projects/js-practice/loops.js) | ⬜ |
 | 4 | Functions | [functions.js](./projects/js-practice/functions.js) | ⬜ |
 | 5 | Objects & Arrays of Objects | [objects.js](./projects/js-practice/objects.js) | ⬜ |
@@ -41,10 +49,3 @@
 - [All Notes](./notes/)
 - [All Projects](./projects/)
 - [Weekly Logs](./progress/)
-
-## Mission
-**Goal:** Build web apps, blockchain/Web3 products, and AI integrations/agents.
-
-**Stack path:** TypeScript/JavaScript → Solidity → (Python later, if needed)
-
-**Golden rule:** Every phase ends with a project pushed to GitHub. Courses are the map; projects are the territory.
