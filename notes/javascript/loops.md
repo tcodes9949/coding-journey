@@ -37,6 +37,7 @@ for (let i = 1; i <= 5; i++) {     // start, condition, step — all in one line
 Same output but 5 lines became three. Now imagine printing 1 to 1,000. No loop? You'd write 1,000 lines. With loop 3 lines.
 The whole point of loops is to do the boring repetition for you.
 
+### `%` (modulo) for checking even/odd
 ```js
 for (let i = 1; i <= 10; i++) {
   if (i % 2 === 0) {            //used to test if the output will be even
