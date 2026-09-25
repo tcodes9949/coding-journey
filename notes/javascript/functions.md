@@ -41,6 +41,16 @@ greet("Charlie")
 ```
 Same output. Now the greeting logic lives in one place. Change it once and the rest follow.
 
+### With return
+```js
+// Checks if number is even 
+function isEven(num) {
+  return num % 2 === 0
+}
+console.log(isEven(5))
+console.log(isEven(8))
+```
+
 ## Gotchas / mistakes
 - `console.log` only shows it — the value is gone once printed.
 
