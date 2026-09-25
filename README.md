@@ -35,7 +35,7 @@
 | 1 | Variables & Data Types | [glossary](./notes/javascript/glossary.md) · [note](./notes/javascript/variables-and-data-types.md) | ✅ done |
 | 2 | Conditionals | [conditionals.js](./projects/js-practice/conditionals.js) · [note](./notes/javascript/conditionals.md)  | ✅ done|
 | 3 | Loops | [loops.js](./projects/js-practice/loops.js) · [note](./notes/javascript/loops.md) | ✅ done |
-| 4 | Functions | [functions.js](./projects/js-practice/functions.js) | ⬜ |
+| 4 | Functions | [functions.js](./projects/js-practice/functions.js)· [note](notes/javascript/functions.md) | ⬜ |
 | 5 | Objects & Arrays of Objects | [objects.js](./projects/js-practice/objects.js) | ⬜ |
 | 6 | Console Calculator | [console-calculator/](./projects/console-calculator/) | ⬜ |
 | 7 | Weekly log + dashboard | [week-01.md](./progress/week-01.md) | ⬜ |
