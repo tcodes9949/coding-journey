@@ -21,7 +21,7 @@
 - `return` gives the value back to the caller so it can be stored and reused. 
 
 ## Code snippet / demo
-
+Full code examples: [functions.js](projects/js-practice/functions.js)
 ### Without function:
 ```js
 console.log("Hello, Alice")
