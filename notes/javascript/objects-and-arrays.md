@@ -34,6 +34,33 @@ consloe.log(colors[2])
 ```
 ### Objects - labeled values
 
+```js
+let person = {
+  name: "Alice"                // each entry has key: value pair
+  age: 30,
+  isReady: true
+}
+
+console.log(person.name)      // "Alice"
+console.log(person.age)       // 30
+console.log(person.isReady)   // true
+```
+
+### Array of objects 
+```js
+let people = [
+  { name: "Alice", age: 30 },
+  { name: "Bob", age: 25 },
+  { name: "Charlie", age: 35 }
+]
+```
+### Looping through them
+```js
+for (let i = 0; i < people.length; i++) {
+  console.log(people[i].name)
+}
+
+```
 
 // code here
 
