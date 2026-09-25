@@ -46,6 +46,11 @@ console.log(person.age)       // 30
 console.log(person.isReady)   // true
 ```
 
+### Length: print how many items
+```js
+colors.length    // 3
+```
+
 ### Array of objects 
 ```js
 let people = [
