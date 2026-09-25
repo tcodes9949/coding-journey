@@ -39,6 +39,14 @@ for (let i = 1; i <= 5; i++) {      //Has 3 separate instructions("start countin
 Same output but. 5 lines becaame three. Now imagine printing 1-1,000. No loop? You'd write 1,000 lines. With loop 3 line.
 The whole point of loops is to do the boring repetition for you.
 
+```js
+for (let i = 1; i <= 10; i++) {
+  if (i % 2 === 0) {            //used to test if the output will be even
+    console.log(i);
+  }
+}
+```
+
 ## Gotchas / mistakes
 - The loop will always attempt the 1st test on the variable written expressed on the condition
 - infinite loops - when in the `while` loop when `i++` is forgotten
