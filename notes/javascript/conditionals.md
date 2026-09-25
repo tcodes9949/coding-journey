@@ -34,7 +34,7 @@ if (condition) {
 ```
 
 ## Gotchas / mistakes
-- In an if/else if/else chain, only the first matching branch runs. Separate if statements (no else) each run independently.
+- In an if/else chain, only the first matching branch runs. Separate if statements (no else) each run independently.
 - Order checks **most specific → least specific** — a broad check first makes later branches **unreachable dead code.**
 - No `else` + no match = **nothing runs.** Silence.
 
