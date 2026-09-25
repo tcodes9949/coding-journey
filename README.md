@@ -5,12 +5,12 @@
 - **Week:** 1
 - **Focus:** Phase 1
 
-## The Plan [units below](#progress)
+## The Plan
 
 | Phase | Status | Started | Completed | Project |
 |---|---|---|---|---|
 | 0. Setup | - | — | ✅ | — |
-| 1. Coding Basics | - | 🔄 In Progress | — | — |
+| 1. Coding Basics | - | 🔄 In Progress | — | [units below](#phase-1--coding-basics)|
 | 2. Architecture | ⬜ Not Started | — | — | — |
 | 3. Git/GitHub | ⬜ Not Started | — | — | — |
 | 4. Smart Contracts & Solidity | ⬜ Not Started | — | — | — |
@@ -42,7 +42,7 @@
 - [All Projects](./projects/)
 - [Weekly Logs](./progress/)
 
-## The Plan
+## Mission
 **Goal:** Build web apps, blockchain/Web3 products, and AI integrations/agents.
 
 **Stack path:** TypeScript/JavaScript → Solidity → (Python later, if needed)
