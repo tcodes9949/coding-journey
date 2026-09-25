@@ -23,6 +23,18 @@ let numbers = [1, 2, 3, 4, 5]
 let mixed = ["Alice", 30, true]
 ```
 
+### Index number positions
+```js
+let colors = ["red", "green", "blue"]
+//               0      1       2
+
+consloe.log(colors[0])     //square brackets + number prints item
+console.log(colors[1])
+consloe.log(colors[2])
+```
+### Objects - labeled values
+
+
 // code here
 
 ## Gotchas / mistakes
