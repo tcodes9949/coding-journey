@@ -32,4 +32,11 @@
 ## What's next
 
 - Unit 7 wrap-up: commit this log, update README
-- Phase 2 
+- Phase 2
+
+  ## Gaps carried forward
+- [ ] functions: return vs console.log — FAIL (Q4, Q8)
+- [ ] functions: writing a function from scratch — FAIL (Q8)
+- [ ] function anatomy: params, return keyword — FAIL (Q2)
+- [ ] loops: trace final value vs print sequence — FAIL (Q5)
+- [ ] loops: fixing a broken loop, not just diagnosing it — PARTIAL (Q10)
