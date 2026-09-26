@@ -37,7 +37,7 @@
 | 3 | Loops | [loops.js](./projects/js-practice/loops.js) · [note](./notes/javascript/loops.md) | ✅ done |
 | 4 | Functions | [functions.js](./projects/js-practice/functions.js)· [note](notes/javascript/functions.md) | ✅ done |
 | 5 | Objects & Arrays of Objects | [objects.js](./projects/js-practice/objects.js) · [note](./notes/javascript/objects.md) | ✅ done |
-| 6 | Console Calculator | [console-calculator/](./projects/console-calculator/) | ⬜ |
+| 6 | Console Calculator | [console-calculator/](./projects/console-calculator/) | ✅ done |
 | 7 | Weekly log + dashboard | [week-01.md](./progress/week-01.md) | ⬜ |
 
 ## Weekly Log
