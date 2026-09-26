@@ -17,8 +17,8 @@
 
 | Phase | Status | Started | Completed | Project |
 |---|---|---|---|---|
-| 0. Setup | - | — | ✅ | — |
-| 1. Coding Basics | - | 🔄 In Progress | — | [units below](#phase-1--coding-basics)|
+| 0. Setup | ✅ | ✅ | ✅ Complete| ✅ |
+| 1. Coding Basics | ✅ |✅ Complete | ✅ | [units below](#phase-1--coding-basics)|
 | 2. Architecture | ⬜ Not Started | — | — | — |
 | 3. Git/GitHub | ⬜ Not Started | — | — | — |
 | 4. Smart Contracts & Solidity | ⬜ Not Started | — | — | — |
@@ -38,12 +38,12 @@
 | 4 | Functions | [functions.js](./projects/js-practice/functions.js)· [note](notes/javascript/functions.md) | ✅ done |
 | 5 | Objects & Arrays of Objects | [objects.js](./projects/js-practice/objects.js) · [note](./notes/javascript/objects.md) | ✅ done |
 | 6 | Console Calculator | [console-calculator/](./projects/console-calculator/) | ✅ done |
-| 7 | Weekly log + dashboard | [week-01.md](./progress/week-01.md) | ⬜ |
+| 7 | Weekly log + dashboard | [week-01.md](./progress/week-01.md) | ✅ done |
 
 ## Weekly Log
 | Week | Dates | Hours | Key Learnings | Link |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| 1 | 2026-Sep-23 – 2026-Sep-26 | — | JavaScript fundamentals (Units 1–6) | [week-01.md](./progress/week-01.md) |
 
 ## Quick Links
 - [All Notes](./notes/)
