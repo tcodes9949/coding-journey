@@ -7,10 +7,10 @@
 - `arrays` - is an ordered list wrapped in square brackets "[...]"
   - each item has a position number, the first item starts at `0` not `1`
 - `length` - how many items that are in the index
-- `Object` - An object groups values with lables(keys) wrapped with curly brackets "{...}"
+- `Object` - An object groups values with label(keys) wrapped with curly brackets "{...}"
   - Each entry is a key paired with a value 
   - When accessing/ calling values: use dot notation ( console.log(person.name))
-  - Order doesn't matter , lables do, you just call `person.name`
+  - Order doesn't matter , labels do, you just call `person.name`
 
 
 ## Code snippet / demo
@@ -37,7 +37,7 @@ console.log(colors[2])
 ```js
 let person = {
   name: "Alice",                // each entry has key: value pair
-  age: 30
+  age: 30,
   isReady: true
 }
 
@@ -54,7 +54,7 @@ console.log(colors.length)    // 3
 ### Array of objects 
 ```js
 let people = [
-  { name: "Alice" age: 30 },
+  { name: "Alice", age: 30 },
   { name: "Bob", age: 25 },
   { name: "Charlie", age: 35 }
 ]
@@ -78,7 +78,15 @@ person.name2        // undefined — key doesn't exist (no error!)
 - In `for` loop use `;`
  ```js
 for (let i = 0; i < arr.length; i++)   // ✅
-for (let i = 0, i < arr.length; i++)   // ❌ comma   ```
+for (let i = 0, i < arr.length; i++)   // ❌ comma
+   ```
+- `console.log( ) closing paren too early
+```js
+console.log(arr[i]).name + " - " + arr[i].email    // ❌
+console.log(arr[i].name + " - " + arr[i].email)    // ✅
+  ```
+- Braces must be balanced — the `if` inside a loop needs two `}` — one for `if`, one for `for`.
+- Trace, don't guess  - Always trace each item against the condition.
 
 ## Resources used
 - Deepseek chat
