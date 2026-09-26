@@ -17,8 +17,8 @@
 
 | Phase | Status | Started | Completed | Project |
 |---|---|---|---|---|
-| 0. Setup | ✅ | ✅ | ✅ Complete| ✅ |
-| 1. Coding Basics | ✅ |✅ Complete | ✅ | [units below](#phase-1--coding-basics)|
+| 0. Setup | - | - | ✅ Complete| ✅ |
+| 1. Coding Basics | ✅ | ✅ Complete | ✅ | [units below](#phase-1--coding-basics)|
 | 2. Architecture | ⬜ Not Started | — | — | — |
 | 3. Git/GitHub | ⬜ Not Started | — | — | — |
 | 4. Smart Contracts & Solidity | ⬜ Not Started | — | — | — |
