@@ -17,9 +17,9 @@
 ## What I learned
 
 - keywords ( `let`, `const`, `var`) declare variables. Data types are the kind of value a variable holds - `string`, `number`, `boolean`, `null`, `undefined`.
-- A function is a reusable recipe. `return` gives a voles back to the caller; `console.log` only shows it.
+- A function is a reusable recipe. `return` gives a value back to the caller; `console.log` only shows it.
 - Loops:`for` when you know how many times; `while` when you repeat until something changes.
-- Conditionals: `if`/`else if`/`else` is one chain -- only the first match runs. Order most-specific -> least-specific, or later branches are dead code.
+- Conditionals: `if`/`else if`/`else` is one chain -- only the first match runs. Order most-specific → least-specific, or later branches are dead code.
 - Arrays vs objects: Arrays are ordered list, accessed by index(starting at 0). Objects are labeled collections, accessed by key.
 
 ## What was hard
@@ -27,9 +27,9 @@
 - Typos that break files: `function`,`else`, `console.log`
 - Balance of `{}` and `()`
 - Commas in objects/arrays
-- Trace the condition - don't assume the first time prints
+- Trace the condition - don't assume the first item prints
 
 ## What's next
 
 - Unit 7 wrap-up: commit this log, update README
-- Phase 2 ( per roadmap)
+- Phase 2 
