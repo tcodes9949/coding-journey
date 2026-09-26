@@ -31,4 +31,5 @@
 
 ## What's next
 
-- Phase 2 (or next phase per your roadmap)
+- Unit 7 wrap-up: commit this log, update README
+- Phase 2 ( per roadmap)
