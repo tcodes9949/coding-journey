@@ -10,7 +10,7 @@
 - `Object` - An object groups values with label(keys) wrapped with curly brackets "{...}"
   - Each entry is a key paired with a value 
   - When accessing/ calling values: use dot notation ( console.log(person.name))
-  - Order doesn't matter , labels do, you just call `person.name`
+  - Order doesn't matter, labels do, you just call `person.name`
 
 
 ## Code snippet / demo
@@ -80,7 +80,7 @@ person.name2        // undefined — key doesn't exist (no error!)
 for (let i = 0; i < arr.length; i++)   // ✅
 for (let i = 0, i < arr.length; i++)   // ❌ comma
    ```
-- `console.log( ) closing paren too early
+- `console.log( )` closing paren too early
 ```js
 console.log(arr[i]).name + " - " + arr[i].email    // ❌
 console.log(arr[i].name + " - " + arr[i].email)    // ✅
