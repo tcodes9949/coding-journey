@@ -28,6 +28,7 @@
 - Balance of `{}` and `()`
 - Commas in objects/arrays
 - Trace the condition - don't assume the first item prints
+- - if a function has no return, it gives back undefined
 
 ## What's next
 
