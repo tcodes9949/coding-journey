@@ -53,6 +53,7 @@ console.log(isEven(8))
 
 ## Gotchas / mistakes
 - `console.log` only shows it — the value is gone once printed.
+- if a function has no return, it will give back undefined to the caller
 
 ## Resources used
 - 
