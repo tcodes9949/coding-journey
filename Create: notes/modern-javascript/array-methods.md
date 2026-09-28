@@ -4,14 +4,14 @@
 **Status:** 🟠 learning
 
 ## What I learned
-- Array methods replace the entire `for` loop with one code.
+- Array methods replace the entire `for` loop with one line.
 ```js
-// for function loop
+// old way - for loop
 for (let i = 0; i < nums.length; i++) {
   console.log(nums[i] * 2)
 }
 
-// .map() - Map each item to...
+// .map() - transform each item
 nums.map(n => n * 2)
 // doubled is [2, 4, 6] 
 
@@ -29,9 +29,10 @@ names.forEach(name => console.log(name))
 // Bob
 
 ```
-- `.map() ` returns new array (same length), use when transforming every itme.
-- `.filter()` returns new array (shorter), use whenkeeping only some items.
+- `.map() ` returns new array (same length), use when transforming every item.
+- `.filter()` returns new array (shorter), use when keeping only some items.
 - `.forEach()` returns nothing. Use when doing something with each item.
+- `.map()` and `.filter()` dont change the original array. They return a new one
 
 
 ## Code snippet / demo
