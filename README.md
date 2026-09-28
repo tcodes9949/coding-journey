@@ -9,9 +9,9 @@
 
 
 ## Current Status
-- **Phase:** 1 JavaScript 
-- **Week:** 1
-- **Focus:** Phase 1
+- **Phase:** 2 — Modern JavaScript
+- **Week:** 2
+- **Focus:** Phase 2
 
 ## The Plan
 
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 | 0. Setup | ✅ Completed | ✅ | ✅ | - |
 | 1. Coding Basics | ✅ Completed | ✅  | ✅ | [units below](#phase-1--coding-basics)|
-| 2. Architecture | ⬜ Not Started | — | — | — |
+| 2. Modern JavaScript | ⬜ Not Started | — | — | [units below](#phase-2--modern-javascript) |
 | 3. Git/GitHub | ⬜ Not Started | — | — | — |
 | 4. Smart Contracts & Solidity | ⬜ Not Started | — | — | — |
 | 5. AI Integrations & Agents | ⬜ Not Started | — | — | — |
@@ -35,10 +35,22 @@
 | 1 | Variables & Data Types | [glossary](./notes/javascript/glossary.md) · [note](./notes/javascript/variables-and-data-types.md) | ✅ done |
 | 2 | Conditionals | [conditionals.js](./projects/js-practice/conditionals.js) · [note](./notes/javascript/conditionals.md)  | ✅ done|
 | 3 | Loops | [loops.js](./projects/js-practice/loops.js) · [note](./notes/javascript/loops.md) | ✅ done |
-| 4 | Functions | [functions.js](./projects/js-practice/functions.js)· [note](notes/javascript/functions.md) | ✅ done |
+| 4 | Functions | [functions.js](./projects/js-practice/functions.js) · [note](./notes/javascript/functions.md) | ✅ done |
 | 5 | Objects & Arrays of Objects | [objects.js](./projects/js-practice/objects.js) · [note](./notes/javascript/objects.md) | ✅ done |
 | 6 | Console Calculator | [console-calculator/](./projects/console-calculator/) | ✅ done |
 | 7 | Weekly log + dashboard | [week-01.md](./progress/week-01.md) | ✅ done |
+
+### Phase 2 — Modern JavaScript
+
+| Unit | Topic | Deliverable | Status |
+|------|-------|-------------|--------|
+| 1 | Arrow Functions | [arrow-functions.js](./projects/js-practice/arrow-functions.js) | ⬜ |
+| 2 | Template Literals | [template-literals.js](./projects/js-practice/template-literals.js) | ⬜ |
+| 3 | Array Methods | [array-methods.js](./projects/js-practice/array-methods.js) | ⬜ |
+| 4 | Destructuring & Spread | [destructuring.js](./projects/js-practice/destructuring.js) | ⬜ |
+| 5 | Modules | [modules/](./projects/js-practice/modules/) | ⬜ |
+| 6 | Refactor the Calculator | [console-calculator/](./projects/console-calculator/) | ⬜ |
+| 7 | Weekly log + dashboard | [week-02.md](./progress/week-02.md) | ⬜ |
 
 ## Weekly Log
 | Week | Dates | Hours | Key Learnings | Link |
