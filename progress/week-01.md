@@ -14,30 +14,48 @@
 - [objects.js](../projects/js-practice/objects.js) + [note](../notes/javascript/objects.md)
 - [console-calculator/](../projects/console-calculator/)
 
+### Drill files
+- [functions-drill.js](../projects/js-practice/drills/functions-drill.js)
+- [loops-trace-drill.js](../projects/js-practice/drills/loops-trace-drill.js)
+
 ## What I learned
 
-- keywords ( `let`, `const`, `var`) declare variables. Data types are the kind of value a variable holds - `string`, `number`, `boolean`, `null`, `undefined`.
-- A function is a reusable recipe. `return` gives a value back to the caller; `console.log` only shows it.
-- Loops:`for` when you know how many times; `while` when you repeat until something changes.
-- Conditionals: `if`/`else if`/`else` is one chain -- only the first match runs. Order most-specific → least-specific, or later branches are dead code.
-- Arrays vs objects: Arrays are ordered list, accessed by index(starting at 0). Objects are labeled collections, accessed by key.
+- keywords (`let`, `const`, `var`) declare variables. Data types are the kind of value a variable holds — `string`, `number`, `boolean`, `null`, `undefined`.
+- A function is a reusable recipe. `return` gives a value back to the caller; `console.log` only shows it. A function with no `return` gives back `undefined`.
+- Loops: `for` when you know how many times; `while` when you repeat until something changes.
+- Conditionals: `if`/`else if`/`else` is one chain — only the first match runs. Order most-specific → least-specific, or later branches are dead code.
+- Arrays vs objects: Arrays are ordered lists, accessed by index (starting at 0). Objects are labeled collections, accessed by key.
 
 ## What was hard
+
 - `return` vs `console.log` (took multiple tries)
-- Typos that break files: `function`,`else`, `console.log`
+- Typos that break files: `function`, `else`, `console.log`
 - Balance of `{}` and `()`
 - Commas in objects/arrays
-- Trace the condition - don't assume the first item prints
-- - if a function has no return, it gives back undefined
+- Trace the condition — don't assume the first item prints
+- **Operator + operand selection** — rushing and pattern-matching instead of reading the setup
+- **Syntax precision** — typos, brace/comma balance (pace issue, not knowledge)
+
+## Diagnostic & retests
+
+- **Initial:** 7.5/10 — passed variables, types, `==` vs `===`, conditionals, objects; failed functions, loops
+- **Retests:** 7 → 7.5 → 9 → 9 → 8.5
+- **Drilled cold (no notes) until pass:** functions, loops, question-reading
+- **Standing habit:** read the ask → trace every line → check operators → don't invent values → then answer
+
+## Gaps carried forward
+
+Closed after drilling (passed):
+- [x] functions: `return` vs `console.log` — PASS
+- [x] functions: write from scratch — PASS
+- [x] loops: write `for`/`while` cold — PASS
+- [x] loops: accumulator trace — PASS
+- [x] question-reading: sequence vs single value — PASS
+
+Still open (carried to Week 2):
+- [ ] operator + operand selection — WATCH
+- [ ] syntax precision — WATCH
 
 ## What's next
 
-- Unit 7 wrap-up: commit this log, update README
 - Phase 2
-
-  ## Gaps carried forward
-- [ ] functions: return vs console.log — FAIL (Q4, Q8)
-- [ ] functions: writing a function from scratch — FAIL (Q8)
-- [ ] function anatomy: params, return keyword — FAIL (Q2)
-- [ ] loops: trace final value vs print sequence — FAIL (Q5)
-- [ ] loops: fixing a broken loop, not just diagnosing it — PARTIAL (Q10)
