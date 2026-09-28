@@ -21,11 +21,8 @@ const greeting = `Hello, ${name}!`
 Full working examples: [template-literals.js](../../projects/js-practice/template-literals.js)
 
 ## Gotchas / mistakes
-- The backticks wrap the ENTIRE string — start to end. Not each piece.
-- Stray text outside backticks — bare words like im on their own line are read as variables → ReferenceError. Everything goes inside console.log( ... ).
-- Only one pair of backticks — they wrap the whole string, not each piece. ${ } goes inside them.
-
-
+- Don't leave text outside `console.log( )`. Bare words on their own line are read as variables → `ReferenceError`.
+- Use **one pair** of backticks around the whole string. `${ }` goes *inside* them — not between separate backtick pairs.
 
 ## Resources used
 
