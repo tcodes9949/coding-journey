@@ -5,16 +5,15 @@
 
 ## What I learned
 
-- - Template literals use **backticks** (`) instead of **quotes** (" ").- `${}` instead of `+` gluing
+- Template literals use **backticks** instead of **quotes** — the key under `Esc`.
+- Use `${}` instead of `+` gluing.
+
 ```js
 // Old way
 const greeting = "Hello, " + name + "!"
 
 // New way
 const greeting = `Hello, ${name}!`
-```
-- `${}` holds any expression, whatever's inside `${}` runs
-
 
 ## Code snippet / demo
 
