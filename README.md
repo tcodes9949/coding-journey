@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 | 0. Setup | ✅ Completed | ✅ | ✅ | - |
 | 1. Coding Basics | ✅ Completed | ✅  | ✅ | [units below](#phase-1--coding-basics)|
-| 2. Modern JavaScript | ⬜ Not Started | — | — | [units below](#phase-2--modern-javascript) |
+| 2. Modern JavaScript |  📍 current | — | — | [units below](#phase-2--modern-javascript) |
 | 3. Git/GitHub | ⬜ Not Started | — | — | — |
 | 4. Smart Contracts & Solidity | ⬜ Not Started | — | — | — |
 | 5. AI Integrations & Agents | ⬜ Not Started | — | — | — |
