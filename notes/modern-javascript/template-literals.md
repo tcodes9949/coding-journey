@@ -14,12 +14,16 @@ const greeting = "Hello, " + name + "!"
 
 // New way
 const greeting = `Hello, ${name}!`
+```
 
 ## Code snippet / demo
 
 Full working examples: [template-literals.js](../../projects/js-practice/template-literals.js)
 
 ## Gotchas / mistakes
+- The backticks wrap the ENTIRE string — start to end. Not each piece.
+
+Wrong
 
 
 
