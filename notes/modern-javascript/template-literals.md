@@ -22,8 +22,8 @@ Full working examples: [template-literals.js](../../projects/js-practice/templat
 
 ## Gotchas / mistakes
 - The backticks wrap the ENTIRE string — start to end. Not each piece.
-
-Wrong
+- Stray text outside backticks — bare words like im on their own line are read as variables → ReferenceError. Everything goes inside console.log( ... ).
+- Only one pair of backticks — they wrap the whole string, not each piece. ${ } goes inside them.
 
 
 
