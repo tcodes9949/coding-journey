@@ -44,7 +44,7 @@
 
 | Unit | Topic | Deliverable | Status |
 |------|-------|-------------|--------|
-| 1 | Arrow Functions | [arrow-functions.js](./projects/js-practice/arrow-functions.js) | ⬜ |
+| 1 | Arrow Functions | [arrow-functions.js](./projects/js-practice/arrow-functions.js) · [note](./notes/modern-javascript/arrow-functions.md) | ✅ done |
 | 2 | Template Literals | [template-literals.js](./projects/js-practice/template-literals.js) | ⬜ |
 | 3 | Array Methods | [array-methods.js](./projects/js-practice/array-methods.js) | ⬜ |
 | 4 | Destructuring & Spread | [destructuring.js](./projects/js-practice/destructuring.js) | ⬜ |
