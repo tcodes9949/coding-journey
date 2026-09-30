@@ -42,8 +42,8 @@ Full working examples: [array-methods.js](../../projects/js-practice/array-metho
 ## Gotchas / mistakes
 
 - nums.map must be called: nums.map(n => ...) — not (nums.map => ...). The arrow function goes inside the method's parentheses.
-• Match variable names exactly: result ≠ results. Singular vs plural is the most common slip.
-• .forEach() returns nothing — no const needed. .map() and .filter() return new arrays — const required.
+- `.forEach()` returns nothing — no `const` needed.
+- `.map()` and `.filter()` return new arrays — `const` required.
 
 
 
