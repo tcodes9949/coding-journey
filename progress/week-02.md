@@ -15,17 +15,20 @@
 
 ## What I learned
 
-- Arrow functions - shorter syntax, implicit return
-- Templte literals - backticks, ${}, no + gluing
-- Array methods - `.map()`, `.filter`, `.forEach() replace loops
-- Destructuring & spread - pull values out, copy mutating
-- Modules - `export` / `import` split codes across files
-- 
+- **Arrow functions** — shorter syntax with implicit return.
+- **Template literals** — backticks and `${}` instead of `+` gluing.
+- **Array methods** — `.map()`, `.filter()`, `.forEach()` replace `for` loops.
+- **Destructuring & spread** — pull values out, copy without mutating the original.
+- **Modules** — `export` / `import` split code across files.
+- These are the patterns React, Web3, and AI libraries use — this is how modern JS is written.
+
 ## What was hard
 
-- `nums.map` vs `(nums.map => ...)` - misplaced parentheses
-- Module setup friction (skipped)
-
+- `nums.map` vs `(nums.map => ...)` — misplaced parentheses
+- `result` vs `results` — variable name mismatch → `ReferenceError`
+- Stray text outside `console.log( )` → `ReferenceError`
+- Backticks wrapping only part of the string instead of the whole thing
+- Module setup friction (skipped running)
 
 ## What's next
 
