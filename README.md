@@ -48,7 +48,7 @@
 | 4 | Destructuring & Spread | [destructuring.js](./projects/js-practice/destructuring.js) · [note](./notes/modern-javascript/destructuring-spread.md) | ✅ done |
 | 5 | Modules | [modules/](./projects/js-practice/modules/) · [note](./notes/modern-javascript/modules.md) | ✅ done |
 | 6 | Refactor the Calculator | [console-calculator/](./projects/console-calculator/) | ✅ done |
-| 7 | Weekly log + dashboard | [week-02.md](./progress/week-02.md) | ⬜ |
+| 7 | Weekly log + dashboard | [week-02.md](./progress/week-02.md) |  ✅ done |
 
 ## Weekly Log
 | Week | Dates | Hours | Key Learnings | Link |
