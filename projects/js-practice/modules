@@ -1,1 +1,3 @@
-
+projects/js-practice/modules/
+  math.js       ← the four operations
+  index.js      ← imports and uses them
