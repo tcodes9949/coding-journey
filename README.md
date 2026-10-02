@@ -7,11 +7,10 @@
 
 **Golden rule:** Every phase ends with a project pushed to GitHub. Courses are the map; projects are the territory.
 
-
 ## Current Status
-- **Phase:** 2 — Modern JavaScript
+- **Phase:** 2 — Modern JavaScript ✅
 - **Week:** 2
-- **Focus:** Phase 2
+- **Focus:** Phase 2 complete
 
 ## The Plan
 
@@ -19,8 +18,7 @@
 |---|---|---|---|---|
 | 0. Setup | ✅ Completed | ✅ | ✅ | - |
 | 1. Coding Basics | ✅ Completed | ✅  | ✅ | [units below](#phase-1--coding-basics)|
-| 2. Modern JavaScript |  📍 current | — | — | [units below](#phase-2--modern-javascript) |
-| 3. Git/GitHub | ⬜ Not Started | — | — | — |
+| 2. Modern JavaScript | ✅ Completed | ✅ | ✅ | [units below](#phase-2--modern-javascript) || 3. Git/GitHub | ⬜ Not Started | — | — | — |
 | 4. Smart Contracts & Solidity | ⬜ Not Started | — | — | — |
 | 5. AI Integrations & Agents | ⬜ Not Started | — | — | — |
 | 6. Security Hardening | ⬜ Not Started | — | — | — |
@@ -56,6 +54,7 @@
 | Week | Dates | Hours | Key Learnings | Link |
 |---|---|---|---|---|
 | 1 | 2026-Sep-23 – 2026-Sep-26 | — | JavaScript fundamentals (Units 1–6) | [week-01.md](./progress/week-01.md) |
+| 2 | 2026-Sep-28 – 2026-Oct-01 | — | Modern JS: arrow functions, template literals, array methods, spread, modules | [week-02.md](./progress/week-02.md) |
 
 ## Quick Links
 - [All Notes](./notes/)
