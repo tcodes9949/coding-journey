@@ -14,6 +14,7 @@
 Full working examples: [modules/](../../projects/js-practice/modules/)
 
 ## Gotchas / mistakes
+- Modules split code across files. export shares, import uses. ./file.js for same-folder files. Running requires setup (package.json with "type": "module", or .mjs extension) — skipped for now, will set up in Unit 6.
 
 
 
