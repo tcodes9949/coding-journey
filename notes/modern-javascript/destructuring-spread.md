@@ -81,6 +81,13 @@ const updated = { ...person, age: 31 }
 
 ## Gotchas / mistakes
 
+- `const copy = nums` is **not** a copy — it's the *same* array with two names. Mutating one mutates both. Use `[...nums]` for a real copy.
+- Spread **order matters**. `{ ...user, age: 31 }` overrides `age` → 31. `{ age: 31, ...user }` does **not** — the spread overwrites the 31. Later wins.
+- **`{ }` for objects, `[ ]` for arrays.** Mix them up → `undefined`.
+  - `const { name } = person` ✅ (object → curly braces)
+  - `const [first] = colors` ✅ (array → square brackets)
+- `.push()` **mutates** the original array. Spread **creates a new one**. Different behavior — pick based on whether you want the original changed.
+
 
 
 ## Resources used
