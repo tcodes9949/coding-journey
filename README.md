@@ -46,7 +46,8 @@
 |------|-------|-------------|--------|
 | 1 | Arrow Functions | [arrow-functions.js](./projects/js-practice/arrow-functions.js) · [note](./notes/modern-javascript/arrow-functions.md) | ✅ done |
 | 2 | Template Literals | [template-literals.js](./projects/js-practice/template-literals.js) · [note](./notes/modern-javascript/template-literals.md) | ✅ done |
-| 3 | Array Methods | [array-methods.js](./projects/js-practice/array-methods.js) · [note](./notes/modern-javascript/array-methods.md) | ✅ done || 4 | Destructuring & Spread | [destructuring.js](./projects/js-practice/destructuring.js) | ⬜ |
+| 3 | Array Methods | [array-methods.js](./projects/js-practice/array-methods.js) · [note](./notes/modern-javascript/array-methods.md) | ✅ done |
+| 4 | Destructuring & Spread | [destructuring.js](./projects/js-practice/destructuring.js) · [note](./notes/modern-javascript/destructuring-spread.md) | ✅ done |
 | 5 | Modules | [modules/](./projects/js-practice/modules/) | ⬜ |
 | 6 | Refactor the Calculator | [console-calculator/](./projects/console-calculator/) | ⬜ |
 | 7 | Weekly log + dashboard | [week-02.md](./progress/week-02.md) | ⬜ |
