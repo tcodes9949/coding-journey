@@ -4,7 +4,9 @@
 **Status:** 🟠 learning
 
 ## What I learned
-
+- Modules let you split code across files and share pieces between them.
+- `export` - a file shares something.
+- `important` - a file uses something from another file.
 
 
 ## Code snippet / demo
