@@ -15,11 +15,17 @@
 
 ## What I learned
 
-<!-- Write 5 bullets — the big ideas, not every detail -->
-
+- Arrow functions - shorter syntax, implicit return
+- Templte literals - backticks, ${}, no + gluing
+- Array methods - `.map()`, `.filter`, `.forEach() replace loops
+- Destructuring & spread - pull values out, copy mutating
+- Modules - `export` / `import` split codes across files
+- 
 ## What was hard
 
-<!-- Honest. What tripped you up. -->
+- `nums.map` vs `(nums.map => ...)` - misplaced parentheses
+- Module setup friction (skipped)
+
 
 ## What's next
 
