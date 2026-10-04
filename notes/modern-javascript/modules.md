@@ -6,7 +6,7 @@
 ## What I learned
 - Modules let you split code across files and share pieces between them.
 - `export` - a file shares something.
-- `important` - a file uses something from another file.
+- `import` - a file uses something from another file.
 
 
 ## Code snippet / demo
@@ -14,7 +14,11 @@
 Full working examples: [modules/](../../projects/js-practice/modules/)
 
 ## Gotchas / mistakes
-- Modules split code across files. export shares, import uses. ./file.js for same-folder files. Running requires setup (package.json with "type": "module", or .mjs extension) — skipped for now, will set up in Unit 6.
+
+- **Unverified** — never actually ran an `import`/`export` file. Skipped due to setup friction (`.mjs` or `package.json`). Needs a real run to confirm.
+- Named exports need **curly braces**: `import { add } from "./math.js"` — not `import add`.
+- Default exports do **not**: `import greet from "./greet.js"`
+- Always include `.js` in the path — `"./math.js"`, not `"./math"`
 
 
 
