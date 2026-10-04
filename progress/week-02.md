@@ -12,6 +12,7 @@
 - [destructuring.js](../projects/js-practice/destructuring.js) + [note](../notes/modern-javascript/destructuring-spread.md)
 - [modules/](../projects/js-practice/modules/) + [note](../notes/modern-javascript/modules.md)
 - [console-calculator/](../projects/console-calculator/) — refactored
+- [modern-js-drill.js](../projects/js-practice/drills/modern-js-drill.js) — Phase 2 drill
 
 ## What I learned
 
@@ -29,6 +30,27 @@
 - Stray text outside `console.log( )` → `ReferenceError`
 - Backticks wrapping only part of the string instead of the whole thing
 - Module setup friction (skipped running)
+
+## Diagnostic & retests
+
+- **Phase 2 diagnostic:** 7.5/10 → 7/10 → 10/10
+- **Verb precision drill** (`.map`/`.filter`/`.some`/`.every`/`.reduce`): 7/7
+- **Phase 1 final retest:** 8.5/10
+- **Method:** 10-question cold retests, retest until 10/10, gaps stay flagged until flipped
+
+## Gaps carried forward
+
+Closed (passed cold):
+- [x] arrow functions — PASS
+- [x] template literals — PASS
+- [x] array methods (`map`/`filter`/`reduce`/`every`/`some`) — PASS
+- [x] spread `[...]` / `{...}` — PASS
+- [x] destructuring — PASS
+
+Still open (carried forward):
+- [ ] **modules (`import`/`export`)** — UNVERIFIED — never ran a real file
+- [ ] **verb precision** — RECURRING — read as English: map=transforms, filter=keeps, some=any, every=all, reduce=folds
+- [ ] **precision habit** — RECURRING — read the exact ask, check operators + bounds
 
 ## What's next
 
