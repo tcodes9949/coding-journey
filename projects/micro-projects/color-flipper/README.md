@@ -1,0 +1,1 @@
+This is a web page that acts as a color flipper. The web page has a title and 4 buttons 3 of which have 1 single color, and 1 random color button that will populate a random color. Each time a button is clicked, the background color of the webpage will be changed
