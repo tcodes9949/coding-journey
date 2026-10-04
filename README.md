@@ -56,7 +56,14 @@
 | 1 | 2026-Sep-23 – 2026-Sep-26 | — | JavaScript fundamentals (Units 1–6) | [week-01.md](./progress/week-01.md) |
 | 2 | 2026-Sep-28 – 2026-Oct-01 | — | Modern JS: arrow functions, template literals, array methods, spread, modules | [week-02.md](./progress/week-02.md) |
 
+## Micro-Projects
+
+Small learning builds. [See all →](./projects/micro-projects/)
+
+_(No projects yet — first one coming soon.)_
+
 ## Quick Links
 - [All Notes](./notes/)
 - [All Projects](./projects/)
+- [Micro-Projects](./projects/micro-projects/)
 - [Weekly Logs](./progress/)
