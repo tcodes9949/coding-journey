@@ -1,11 +1,11 @@
 let items = [];
 
-const itemsDiv = documents.getElementById("items")
-const input = document.getElementByElementId("itemInput")
-const strageKey = "items"
+const itemsDiv = document.getElementById("items")
+const input = document.getElementById("itemInput")
+const storageKey = "items"
 
 function renderItems() {
-    itemsDiv.innerHTML = null;
+    itemsDiv.innerHTML = "";
 
     for (const [idx, item] of Object.entries(items)) {
         const container = document.createElement("div")
@@ -18,7 +18,7 @@ function renderItems() {
 
         const button = document.createElement("button")
         button.textContent = "Delete"
-        button.onClick = (() => removeItem(idx))
+        button.onclick = (() => removeItem(idx))
 
         container.appendChild(text)
         container.appendChild(button)
@@ -28,7 +28,7 @@ function renderItems() {
 }
 
 function loadItems() {
-    const oldItems = localStorage.getItem(strageKey)
+    const oldItems = localStorage.getItem(storageKey)
     if (oldItems) items = JSON.parse(oldItems)
     renderItems()
 }
@@ -40,7 +40,7 @@ function saveItems() {
 }
 
 function addItem() {
-    const value = input.vlue;
+    const value = input.value;
     if (!value) {
         alert("You cannot add an empty item")
         return
@@ -51,7 +51,7 @@ function addItem() {
     saveItems()
 }
 
-function renoveItem(idx) {
+function removeItem(idx) {
     items.splice(idx, 1)
     renderItems()
     saveItems()

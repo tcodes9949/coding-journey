@@ -15,7 +15,7 @@ const usedIndexes = new Set()
 const quoteElement = document.getElementById("quote")
 
 function generateQuote() {
-  if (usedIndexes.size = quotes.length) {
+  if (usedIndexes.size === quotes.length) {
     usedIndexes.clear()
   }
 
@@ -26,7 +26,7 @@ function generateQuote() {
 
      const quote = quotes[randomIdx]
      quoteElement.innerHTML = quote;   
-     usedIndexes.add(randomIndx)
+    usedIndexes.add(randomIdx)
      break
 
     }

@@ -3,7 +3,7 @@ let interval = null;
 const time = document.getElementById("time")
 
 function padStart(value) {
-return String(value).pasStart(2, "0")
+    return String(value).padStart(2, "0")
 }
 
 function setTime() {
@@ -14,19 +14,21 @@ function setTime() {
 
 function timer() {
     secondsElapsed++;
+    setTime()
 }
 
 function startClock() {
-  if (interval)  stopClock()
+    if (interval !== null) return
     interval = setInterval(timer, 1000)
 }
 
 function stopClock() {
     clearInterval(interval)
+    interval = null
 }
 
 function resetClock() {
     stopClock()
-    seconsElapsed = 0;
+    secondsElapsed = 0;
     setTime()
 }
