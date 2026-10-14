@@ -1,7 +1,7 @@
 let timeLeft = 3
 
 const id = setInterval(() => {
-      console.log(timeLeft)     
+      console.log(timeLeft)    
       timeLeft = timeLeft - 1
 
 
