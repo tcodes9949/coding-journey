@@ -1,4 +1,4 @@
-let timeLeft = 25
+let timeLeft = 3
 
 const id = setInterval(() => {
       console.log(timeLeft)     
