@@ -1,8 +1,9 @@
 let timeLeft = 25
 
 const id = setInterval(() => {
-  timeLeft = timeLeft - 1
-  console.log(timeLeft)
+      console.log(timeLeft)     
+      timeLeft = timeLeft - 1
+
 
   if (timeLeft === 0) { 
         console.log("DONE!")
