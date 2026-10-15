@@ -71,15 +71,15 @@
 
 ### Phase 3 — Git & GitHub
 
-| Unit | Topic | Deliverable | Status |
-|---|---|---|---|
-| 1 | Git concepts: repository, working tree, staging, commit | Make and inspect a local repository | ⬜ |
-| 2 | Essential commands: `status`, `add`, `commit`, `log`, `diff` | Commit a small change and inspect history | ⬜ |
-| 3 | Branches and merging | Create and merge a practice branch | ⬜ |
-| 4 | GitHub repository and remote | Push a local project to GitHub | ⬜ |
-| 5 | README, `.gitignore`, and project hygiene | Give the repository setup/run instructions | ⬜ |
-| 6 | Practice workflow | Make a small change, commit it, and push it | ⬜ |
-| 7 | Phase project + weekly log | Publish one existing practice project cleanly | ⬜ |
+| Unit | Topic                                                        | Deliverable                                   | Status |
+| ---- | ------------------------------------------------------------ | --------------------------------------------- | ------ |
+| 1    | Git concepts: repository, working tree, staging, commit      | Make and inspect a local repository           | ⬜      |
+| 2    | Essential commands: `status`, `add`, `commit`, `log`, `diff` | Commit a small change and inspect history     | ⬜      |
+| 3    | Branches and merging                                         | Create and merge a practice branch            | ⬜      |
+| 4    | GitHub repository and remote                                 | Push a local project to GitHub                | ⬜      |
+| 5    | README, `.gitignore`, and project hygiene                    | Give the repository setup/run instructions    | ⬜      |
+| 6    | Practice workflow                                            | Make a small change, commit it, and push it   | ⬜      |
+| 7    | Phase project + weekly log                                   | Publish one existing practice project cleanly | ⬜      |
 
 ### Phase 4 — HTML & CSS
 
