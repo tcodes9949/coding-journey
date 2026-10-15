@@ -25,7 +25,7 @@
 | 0. Setup | Editor, runtime, folders, terminal, basic workflow | ✅ Completed | Environment ready |
 | 1. Coding Basics | Core JavaScript concepts | ✅ Completed | Console calculator + practice files |
 | 2. Modern JavaScript | Modern syntax, arrays, objects, modules | ✅ Completed* | Refactored console calculator + drills |
-| 3. Git & GitHub | Version control and publishing work | ⬜ Next | Repository with clean commits and README |
+| 3. Git & GitHub | Version control and publishing work | ✅ Completed | Repository with clean commits and README |
 | 4. HTML & CSS | Build and style web pages | ⬜ Not Started | Responsive personal/project landing page |
 | 5. Browser JavaScript | DOM, events, forms, and browser state | ⬜ Not Started | Interactive task or habit tracker |
 | 6. Async JavaScript & APIs | Promises, `async`/`await`, `fetch`, errors, JSON | ⬜ Not Started | App that consumes a public API |
