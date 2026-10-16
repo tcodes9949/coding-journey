@@ -1,4 +1,5 @@
 # My Coding Journey
+github repo link: https://github.com/tcodes9949/coding-journey.git
 
 ## Mission
 **Goal:** Build web apps, blockchain/Web3 products, and AI integrations/agents.

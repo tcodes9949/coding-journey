@@ -59,15 +59,15 @@
 
 ### Phase 2 — Modern JavaScript
 
-| Unit | Topic | Deliverable | Status |
-|---|---|---|---|
-| 1 | Arrow Functions | [arrow-functions.js](./projects/js-practice/arrow-functions.js) · [note](./notes/modern-javascript/arrow-functions.md) | ✅ done |
-| 2 | Template Literals | [template-literals.js](./projects/js-practice/template-literals.js) · [note](./notes/modern-javascript/template-literals.md) | ✅ done |
-| 3 | Array Methods | [array-methods.js](./projects/js-practice/array-methods.js) · [note](./notes/modern-javascript/array-methods.md) | ✅ done |
-| 4 | Destructuring & Spread | [destructuring.js](./projects/js-practice/destructuring.js) · [note](./notes/modern-javascript/destructuring-spread.md) | ✅ done |
-| 5 | Modules | [modules/](./projects/js-practice/modules/) · [note](./notes/modern-javascript/modules.md) | ⚠️ studied; real-file run unverified |
-| 6 | Refactor the Calculator | [console-calculator/](./projects/console-calculator/) | ✅ done |
-| 7 | Weekly Log + Dashboard | [week-02.md](./progress/week-02.md) | ✅ done |
+| Unit | Topic                   | Deliverable                                                                                                                  | Status |
+| ---- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1    | Arrow Functions         | [arrow-functions.js](./projects/js-practice/arrow-functions.js) · [note](./notes/modern-javascript/arrow-functions.md)       | ✅ done |
+| 2    | Template Literals       | [template-literals.js](./projects/js-practice/template-literals.js) · [note](./notes/modern-javascript/template-literals.md) | ✅ done |
+| 3    | Array Methods           | [array-methods.js](./projects/js-practice/array-methods.js) · [note](./notes/modern-javascript/array-methods.md)             | ✅ done |
+| 4    | Destructuring & Spread  | [destructuring.js](./projects/js-practice/destructuring.js) · [note](./notes/modern-javascript/destructuring-spread.md)      | ✅ done |
+| 5    | Modules                 | [modules/](./projects/js-practice/modules/) · [note](./notes/modern-javascript/modules.md)                                   | ✅ done |
+| 6    | Refactor the Calculator | [console-calculator/](./projects/console-calculator/)                                                                        | ✅ done |
+| 7    | Weekly Log + Dashboard  | [week-02.md](./progress/week-02.md)                                                                                          | ✅ done |
 
 ### Phase 3 — Git & GitHub
 
