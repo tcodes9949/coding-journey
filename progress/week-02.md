@@ -46,9 +46,9 @@ Closed (passed cold):
 - [x] array methods (`map`/`filter`/`reduce`/`every`/`some`) — PASS
 - [x] spread `[...]` / `{...}` — PASS
 - [x] destructuring — PASS
+- [x] **modules (`import`/`export`)** — UNVERIFIED — never ran a real file
 
-Still open (carried forward):
-- [ ] **modules (`import`/`export`)** — UNVERIFIED — never ran a real file
+Still open (carried forward)
 - [ ] **verb precision** — RECURRING — read as English: map=transforms, filter=keeps, some=any, every=all, reduce=folds
 - [ ] **precision habit** — RECURRING — read the exact ask, check operators + bounds
 

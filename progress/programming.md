@@ -12,11 +12,11 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Verify JavaScript Modules
 
 
 ## Done
 
+- [ ] Verify JavaScript Modules
 
 
 
