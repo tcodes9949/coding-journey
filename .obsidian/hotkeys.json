@@ -1,0 +1,11 @@
+{
+  "obsidian-kanban:convert-to-kanban": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ]
+}
